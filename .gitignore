@@ -1,0 +1,9 @@
+target/
+*.war
+.classpath
+.project
+.settings/
+*.class
+*.log
+.DS_Store
+Thumbs.db
